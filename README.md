@@ -1,8 +1,9 @@
 # FujioAzuma.github.io
-I:image
-I00:Month
-I0000:theme
-I000000:item
+j:January
+fdd:
+mdda~z:
+4a/ 5v/ 6x/ 7s/ 8e/ 9n/ 10t/ 11e/ 12d//
+
 I02 February
 I020000 節分(豆と鬼面) / I020001 節分(豆まきイラスト)
 I020100 ふきのとう(雪中) / I020101 ふきのとう(黄緑) / I020102 ふきのとう(緑)
